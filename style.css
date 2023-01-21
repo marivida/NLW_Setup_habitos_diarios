@@ -105,3 +105,8 @@ input:checked {
     display: none;
   }
 }
+
+footer {
+  position: relative;
+  left: 10px;
+}
