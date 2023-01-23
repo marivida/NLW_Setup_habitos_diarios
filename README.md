@@ -29,13 +29,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos diários de uma pessoa.
 
+- [Visite o projeto online](https://marivida.github.io/NLW_Setup_habitos_diarios/)
+
 ## 💀 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
+
 Este projeto está sob a Licença da Rocketseat.
 
-----
+---
 
 Feito com o 💟 by Mariana Vida
