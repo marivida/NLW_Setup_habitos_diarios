@@ -6,6 +6,7 @@ button.addEventListener("click", add)
 form.addEventListener("change", save)
 
 function add() {
+  // const { format } = new Intl.DateTimeFormat()
   const today = new Date().toLocaleDateString("pt-br").slice(0, -5)
   // const today = "01-10"
   const dayExists = nlwSetup.dayExists(today)
